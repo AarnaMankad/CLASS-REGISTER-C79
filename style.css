@@ -1,0 +1,11 @@
+input{
+    margin: 10px;
+}
+
+#button_submit, #button_sort{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+}
